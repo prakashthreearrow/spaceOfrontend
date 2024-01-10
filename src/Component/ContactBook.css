@@ -1,0 +1,22 @@
+.capsule {
+    border: 1px solid burlywood;
+    background-color: aliceblue;
+}
+
+td {
+    white-space: normal !important;
+}
+
+td {
+    white-space: normal !important;
+    word-wrap: break-word;
+    line-height: 30px;
+}
+
+table {
+    table-layout: fixed;
+}
+
+.records{
+    height: 80vh;
+}
